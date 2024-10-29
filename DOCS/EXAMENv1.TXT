@@ -1,1 +1,5 @@
 git commit -m "versio 1"
+git remote add origin https://github.com/BadarNH/examenm5uf2.git
+git add .
+git push origin master
+git init
