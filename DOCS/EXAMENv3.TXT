@@ -1,0 +1,3 @@
+git commit -m "versio 3"
+git add .
+git push origin master
