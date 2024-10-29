@@ -1,0 +1,7 @@
+git add . 
+git status 
+git commit 
+git Branch mywork
+git checkout mywork
+git push origin mywork
+git pull origin mywork
