@@ -8,3 +8,6 @@ git push origin p2
 git checkout p1
 git checkout p2
 git commit -m "carpeta html"
+git commit -m "merge p1"
+git merge p1
+
